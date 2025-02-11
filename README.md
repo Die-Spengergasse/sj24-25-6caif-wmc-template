@@ -1,1 +1,5 @@
-# sj24-25-6caif-wmc-template
+# Working Repo für WMC im 6. Semester
+
+Name: Vorname Zuname  
+Klasse: 6CAIF
+
